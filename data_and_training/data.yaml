@@ -1,0 +1,6 @@
+val: images/Validation
+train: images/Train
+names:
+  0: Non-Shiny
+  1: Shiny
+path: "C:/Users/vyabo/Desktop/Shiny Pokemon Model/Swablu/github/data_and_training/data/"
